@@ -1,4 +1,4 @@
-![Python versions](https://img.shields.io/pypi/pyversions/danger-python)
+![Python versions](https://img.shields.io/badge/python-03.10-blue)
 
 # Fraud Detetion System using Machine Learning.
 
